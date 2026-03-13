@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👽 ALIEN NIRVANA 👽
+# 👽 ALIEN-NIRVANA 👽
 
 AI Software Development
 
